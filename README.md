@@ -99,4 +99,4 @@ VK.Share.count(1, 419);
 
 ## Screenshot
 
-![screenshot](https://github.com/abhn/Social-Share-Counts/sharesCountScreenshot.png)
+![screenshot](https://raw.githubusercontent.com/abhn/Social-Share-Counts/master/sharesCountScreenshot.png)
