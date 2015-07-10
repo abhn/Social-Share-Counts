@@ -76,7 +76,7 @@ Request:
 
 Response:
 ```json
-receiveCount({"url":"https://github.com","count":0})
+receiveCount({"url":"https://github.com","count":0}) 
 ```
 
 ### Reddit

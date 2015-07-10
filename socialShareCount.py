@@ -83,7 +83,7 @@ try:
             ups += int(i["data"]["ups"])
             downs += int(i["data"]["downs"])
         print "Reddit: " + str(ups - downs)
-    except HTTPError:
+    except urllib2.HTTPError:
         print "Reddit is not behaving. Try again later."
         
     # vkontakte
